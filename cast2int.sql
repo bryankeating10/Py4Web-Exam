@@ -11,7 +11,10 @@ SELECT
 FROM final_notes;
 
 -- Drop the old table
-DROP TABLE final_notes
+DROP TABLE final_notes;
 
 -- Rename new table with proper column types
-ALTER TABLE final_new RENAME TO final_notes
+ALTER TABLE final_new RENAME TO final_notes;
+
+-- View changes
+SELECT * FROM final_notes LIMIT 5;

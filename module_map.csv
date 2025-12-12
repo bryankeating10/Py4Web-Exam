@@ -1,0 +1,9 @@
+﻿Module,Name
+7,Docker and Containerization
+8,Web Applications and Testing
+9,Database
+10,"Secure User Accounts, Pydantic Validation, and CI/CD"
+11,Modeling Calculations and Pydantic Schemas
+12,"Implementation, Testing User and Calculation Routes"
+13,"JWT Login, Registration and Playwright Tests"
+14,"Browse, Read, Edit, Add, Delete"
